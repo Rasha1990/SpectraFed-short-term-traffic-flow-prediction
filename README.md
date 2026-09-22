@@ -1,10 +1,6 @@
 ```markdown
 # SpectraFed: Short-Term Traffic Flow Prediction
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-ee4c2c.svg)](https://pytorch.org/)
-
 This repository contains the official implementation of SpectraFed, a federated learning framework designed for short-term traffic forecasting. The framework enables collaborative model training across distributed traffic agencies while maintaining data privacy and security.
 
 ## Table of Contents
